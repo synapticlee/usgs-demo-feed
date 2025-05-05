@@ -1,0 +1,381 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "generated": 1746475342000,
+    "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
+    "title": "USGS All Earthquakes, Past Hour",
+    "status": 200,
+    "api": "1.14.1",
+    "count": 9
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.09,
+        "place": "6 km NNW of The Geysers, CA",
+        "time": 1746475138910,
+        "updated": 1746475236449,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75176941",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75176941.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 18,
+        "net": "nc",
+        "code": "75176941",
+        "ids": ",nc75176941,",
+        "sources": ",nc,",
+        "types": ",nearby-cities,origin,phase-data,",
+        "nst": 23,
+        "dmin": 0.009356,
+        "rms": 0.02,
+        "gap": 48,
+        "magType": "md",
+        "type": "earthquake",
+        "title": "M 1.1 - 6 km NNW of The Geysers, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.803001403809,
+          38.8158340454102,
+          2.64000010490417
+        ]
+      },
+      "id": "nc75176941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.95,
+        "place": "4 km NW of Cabazon, CA",
+        "time": 1746474726340,
+        "updated": 1746474963694,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41145320",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41145320.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 14,
+        "net": "ci",
+        "code": "41145320",
+        "ids": ",ci41145320,",
+        "sources": ",ci,",
+        "types": ",nearby-cities,origin,phase-data,scitech-link,",
+        "nst": 34,
+        "dmin": 0.09646,
+        "rms": 0.13,
+        "gap": 59,
+        "magType": "ml",
+        "type": "earthquake",
+        "title": "M 1.0 - 4 km NW of Cabazon, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.8261667,
+          33.9396667,
+          7.41
+        ]
+      },
+      "id": "ci41145320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.5,
+        "place": "12 km N of Moapa Town, Nevada",
+        "time": 1746474221138,
+        "updated": 1746474376244,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00897249",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00897249.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 35,
+        "net": "nn",
+        "code": "00897249",
+        "ids": ",nn00897249,",
+        "sources": ",nn,",
+        "types": ",origin,phase-data,",
+        "nst": 8,
+        "dmin": 0.528,
+        "rms": 0.3735,
+        "gap": 327.95000000000005,
+        "magType": "ml",
+        "type": "earthquake",
+        "title": "M 1.5 - 12 km N of Moapa Town, Nevada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.6077,
+          36.7956,
+          2.5
+        ]
+      },
+      "id": "nn00897249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.1,
+        "place": "9 km WNW of Tatitlek, Alaska",
+        "time": 1746473775335,
+        "updated": 1746473902949,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255r1pd6l",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255r1pd6l.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 68,
+        "net": "ak",
+        "code": "0255r1pd6l",
+        "ids": ",ak0255r1pd6l,",
+        "sources": ",ak,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": null,
+        "rms": 0.62,
+        "gap": null,
+        "magType": "ml",
+        "type": "earthquake",
+        "title": "M 2.1 - 9 km WNW of Tatitlek, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -146.8411,
+          60.8844,
+          20.2
+        ]
+      },
+      "id": "ak0255r1pd6l"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.49,
+        "place": "7 km ESE of Chula Vista, CA",
+        "time": 1746473442870,
+        "updated": 1746473743878,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41145304",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41145304.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 34,
+        "net": "ci",
+        "code": "41145304",
+        "ids": ",ci41145304,",
+        "sources": ",ci,",
+        "types": ",nearby-cities,origin,phase-data,scitech-link,",
+        "nst": 27,
+        "dmin": 0.04478,
+        "rms": 0.17,
+        "gap": 203,
+        "magType": "ml",
+        "type": "earthquake",
+        "title": "M 1.5 - 7 km ESE of Chula Vista, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9828333,
+          32.6021667,
+          3.55
+        ]
+      },
+      "id": "ci41145304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.54,
+        "place": "4 km NW of Rosamond, CA",
+        "time": 1746473389510,
+        "updated": 1746473655373,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41145296",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41145296.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 36,
+        "net": "ci",
+        "code": "41145296",
+        "ids": ",ci41145296,",
+        "sources": ",ci,",
+        "types": ",nearby-cities,origin,phase-data,scitech-link,",
+        "nst": 14,
+        "dmin": 0.1553,
+        "rms": 0.22,
+        "gap": 155,
+        "magType": "ml",
+        "type": "earthquake",
+        "title": "M 1.5 - 4 km NW of Rosamond, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1931667,
+          34.8941667,
+          9.83
+        ]
+      },
+      "id": "ci41145296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.2,
+        "place": "62 km W of Salamatof, Alaska",
+        "time": 1746472678851,
+        "updated": 1746472818398,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0255r1ldru",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0255r1ldru.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 74,
+        "net": "ak",
+        "code": "0255r1ldru",
+        "ids": ",ak0255r1ldru,",
+        "sources": ",ak,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": null,
+        "rms": 0.46,
+        "gap": null,
+        "magType": "ml",
+        "type": "earthquake",
+        "title": "M 2.2 - 62 km W of Salamatof, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.4553,
+          60.5514,
+          90.6
+        ]
+      },
+      "id": "ak0255r1ldru"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.6,
+        "place": "37 km SSW of Los Ybanez, Texas",
+        "time": 1746472639848,
+        "updated": 1746473639809,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2025iubb",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2025iubb.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 39,
+        "net": "tx",
+        "code": "2025iubb",
+        "ids": ",tx2025iubb,",
+        "sources": ",tx,",
+        "types": ",origin,phase-data,",
+        "nst": 40,
+        "dmin": 0,
+        "rms": 0.4,
+        "gap": 146,
+        "magType": "ml",
+        "type": "earthquake",
+        "title": "M 1.6 - 37 km SSW of Los Ybanez, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.131,
+          32.433,
+          4.2874
+        ]
+      },
+      "id": "tx2025iubb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.58,
+        "place": "7 km SW of New Harmony, Utah",
+        "time": 1746472363910,
+        "updated": 1746474100390,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80106961",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uu80106961.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 38,
+        "net": "uu",
+        "code": "80106961",
+        "ids": ",uu80106961,",
+        "sources": ",uu,",
+        "types": ",origin,phase-data,",
+        "nst": 10,
+        "dmin": 0.1117,
+        "rms": 0.24,
+        "gap": 72,
+        "magType": "ml",
+        "type": "earthquake",
+        "title": "M 1.6 - 7 km SW of New Harmony, Utah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.382166666667,
+          37.4398333333333,
+          10.71
+        ]
+      },
+      "id": "uu80106961"
+    }
+  ],
+  "bbox": [
+    -152.4553,
+    32.433,
+    2.5,
+    -102.131,
+    60.8844,
+    90.6
+  ]
+}
